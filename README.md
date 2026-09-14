@@ -1,2 +1,2 @@
-# Pytetris
+# PyTetris
 Tetris game in Python
